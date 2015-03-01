@@ -1,0 +1,9 @@
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.UnitTest.dll
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.UnitTest.pdb
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.Shared.dll
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\nunit.framework.dll
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.Shared.pdb
+E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\nunit.framework.xml
+E:\Projects\DonutRing\DonutRing.UnitTest\obj\Debug\DonutRing.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\DonutRing\DonutRing.UnitTest\obj\Debug\DonutRing.UnitTest.dll
+E:\Projects\DonutRing\DonutRing.UnitTest\obj\Debug\DonutRing.UnitTest.pdb

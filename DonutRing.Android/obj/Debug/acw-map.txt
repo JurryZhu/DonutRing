@@ -1,0 +1,3 @@
+DonutRing.Androids.Circle;donutring.androids.Circle
+DonutRing.Androids.Circle.CircleGestureListener;donutring.androids.Circle_CircleGestureListener
+DonutRing.MainActivity;donutring.MainActivity

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.UnitTest.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-03-01" time="22:35:50">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="TONY-HOME" user="Rong" user-domain="TONY-HOME" />
+  <culture-info current-culture="en-AU" current-uiculture="en-GB" />
+  <test-suite type="Assembly" name="E:\Projects\DonutRing\DonutRing.UnitTest\bin\Debug\DonutRing.UnitTest.dll" executed="True" result="Success" success="True" time="3.770" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="DonutRing" executed="True" result="Success" success="True" time="3.751" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTest" executed="True" result="Success" success="True" time="3.750" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestColorManager" executed="True" result="Success" success="True" time="3.747" asserts="0">
+                <results>
+                  <test-case name="DonutRing.UnitTest.TestColorManager.TestGetRandomColor" executed="True" result="Success" success="True" time="3.729" asserts="3" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

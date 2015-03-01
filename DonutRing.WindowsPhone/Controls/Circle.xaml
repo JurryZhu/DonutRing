@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="DonutRing.WindowsPhone.Controls.Circle" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" FontFamily="{StaticResource PhoneFontFamilyNormal}" FontSize="{StaticResource PhoneFontSizeNormal}" Foreground="{StaticResource PhoneForegroundBrush}">
+    <UserControl.RenderTransform>
+        <TransformGroup>
+            <TranslateTransform x:Name="translateTransform"></TranslateTransform>
+        </TransformGroup>
+    </UserControl.RenderTransform>
+    <Grid Background="Transparent">
+        <Ellipse Stroke="{Binding Stroke}" StrokeThickness="3" Width="{Binding Radius}" Height="{Binding Radius}" IsHitTestVisible="False"/>
+        <TextBlock VerticalAlignment="Center" Foreground="{StaticResource PhoneForegroundBrush}" HorizontalAlignment="Center" Text="{Binding Text}" Visibility="{Binding TitleVisibility}" IsHitTestVisible="False" />
+    </Grid>
+</UserControl>

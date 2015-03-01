@@ -1,0 +1,5 @@
+E:\Projects\DonutRing\DonutRing.Shared\bin\Debug\DonutRing.Shared.dll
+E:\Projects\DonutRing\DonutRing.Shared\bin\Debug\DonutRing.Shared.pdb
+E:\Projects\DonutRing\DonutRing.Shared\obj\Debug\DonutRing.Shared.dll
+E:\Projects\DonutRing\DonutRing.Shared\obj\Debug\DonutRing.Shared.pdb
+E:\Projects\DonutRing\DonutRing.Shared\obj\Debug\DonutRing.Shared.csprojResolveAssemblyReference.cache
